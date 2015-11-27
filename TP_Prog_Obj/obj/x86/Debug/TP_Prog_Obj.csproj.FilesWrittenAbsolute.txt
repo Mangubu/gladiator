@@ -1,0 +1,5 @@
+/Users/mangubu/Documents/ProjetCours/TP POO/TP_Prog_Obj/TP_Prog_Obj/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/mangubu/Documents/ProjetCours/TP POO/TP_Prog_Obj/TP_Prog_Obj/bin/Debug/TP_Prog_Obj.exe.mdb
+/Users/mangubu/Documents/ProjetCours/TP POO/TP_Prog_Obj/TP_Prog_Obj/bin/Debug/TP_Prog_Obj.exe
+/Users/mangubu/Documents/ProjetCours/TP POO/TP_Prog_Obj/TP_Prog_Obj/obj/x86/Debug/TP_Prog_Obj.exe
+/Users/mangubu/Documents/ProjetCours/TP POO/TP_Prog_Obj/TP_Prog_Obj/obj/x86/Debug/TP_Prog_Obj.exe.mdb
